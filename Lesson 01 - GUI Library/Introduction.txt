@@ -1,0 +1,35 @@
+✅ What is Tkinter?
+	Tkinter is the standard GUI (Graphical User Interface) library for Python. It provides tools to create windows, buttons, text fields, labels, and other GUI elements. Tkinter is included with most Python distributions and is an excellent way to build simple desktop applications.
+
+✅ Getting Started with Tkinter
+To use Tkinter in a Python script, you need to import it first:
+import tkinter as tk
+
+
+✅ Basic Structure of a Tkinter Program
+Here’s a simple example of how a basic Tkinter application is structured:
+import tkinter as tk
+
+# Create the main application window
+root = tk.Tk()
+
+# Set the title of the window
+root.title("My First Tkinter App")
+
+# Set the size of the window (optional)
+root.geometry("300x200")
+
+# Add a label widget
+label = tk.Label(root, text="Hello, Tkinter!")
+label.pack()
+
+# Run the application
+root.mainloop()
+Explanation:
+
+tk.Tk()     - initializes the main window.
+title()     - sets the window title.
+geometry()  - optionally sets the window size.
+Label 	      creates a text label widget.
+pack() 	      places the widget in the window.
+mainloop()    keeps the window open and listens for events (clicks, key presses, etc.).
