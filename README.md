@@ -25,3 +25,8 @@ This collection includes beginner to advanced desktop apps built using **Python'
 
 ✅ Widgets: Button, Label, Entry, Frame, LabelFrame, Canvas, Checkbutton, Radiobutton, Spinbox, Menu, Scrollbar, Text, etc.  
 ✅ Geometry Managers
+
+🔗 Connect with Me 
+GitHub: @MohamedKalid-94
+LinkedIn: www.linkedin.com/in/mohamed-kalid-4618921a7
+Email: kalidmohamed1046@gmail.com
